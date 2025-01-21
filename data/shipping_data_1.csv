@@ -1,4 +1,4 @@
-shipment_identifier,product,on_time
+shipment_identifier,product_name,on_time
 449263b4-6c93-4f19-8b6a-0d99a29fc637,pants,false
 449263b4-6c93-4f19-8b6a-0d99a29fc637,pants,false
 449263b4-6c93-4f19-8b6a-0d99a29fc637,pants,false

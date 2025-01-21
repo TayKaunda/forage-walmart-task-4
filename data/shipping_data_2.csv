@@ -1,4 +1,4 @@
-shipment_identifier,origin_warehouse,destination_store,driver_identifier
+shipment_identifier,origin,destination_store,driver_identifier
 449263b4-6c93-4f19-8b6a-0d99a29fc637,bb75bf7d-c008-4267-bf92-6089cff5fe56,5e9405de-a078-4b00-99c6-96564568b63c,c12025e6-6f9c-4728-8c3c-9f840bde6f1a
 76e5b84a-9d09-4efb-8b43-a0c932b958bb,372fd2b1-b2a7-4553-b6d7-426a1bc88e56,e34973c8-9ca9-4a06-b497-7a8b49625fc2,85b8d394-a67c-48b6-b1de-55be323ba622
 b541a47d-89b1-4805-97d0-1988832321f1,469d957f-28ef-4eac-956a-d2a42b06d3ab,fcadc756-61e9-41bb-871b-d3546c5aa981,47bdfc40-f3db-4678-b6a7-43f1e1c2fd32

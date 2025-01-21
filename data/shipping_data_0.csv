@@ -1,4 +1,4 @@
-origin_warehouse,destination_store,product,on_time,product_quantity,driver_identifier
+origin_warehouse,destination_store,product_name,on_time,product_quantity,driver_identifier
 d5566b15-b071-4acf-8e8e-c98433083b2d,50d33715-4c77-4dd9-8b9d-ff1ca372a2a2,lotion,true,59,d8da0460-cf39-4f38-9fff-6c9b4e344d8a
 c42f0de8-b4f0-4167-abd1-ae79e5e18eea,172eb8f3-1033-4fb6-b66b-d0df09df3161,windows,true,28,293ccaec-6592-4f04-aae5-3e238fe62614
 b145f396-de9b-42f1-9cc9-f5b52c3a941c,65e4544d-42ae-4751-9580-bdcb90e5fcda,skis,true,63,80988f09-91a3-4e1b-8e69-13551c53f318
